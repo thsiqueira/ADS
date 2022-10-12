@@ -5,3 +5,8 @@
 
 Um projeto com objetivo de documentar todos os meus estudos da graduação.
 Serão comitados apenas os arquivos principais de cada exercício, excluindo bibliotecas e arquivos do editor de código.
+
+
+# Exercício 1 - Seleção de meses a partir de um número inteiro
+
+Cria uma classe que recebe um número inteiro e devolve o mês correspondente. 
