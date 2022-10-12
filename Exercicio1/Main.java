@@ -5,7 +5,7 @@ class Main {
     Scanner ler = new Scanner (System.in);
     int opcao;
 
-    System.out.println ("Digite um número correspondente ao mês do ano: ");
+    System.out.println ("Digite um número correspondente ao mês do ano?");
     opcao = ler.nextInt ();
     switch(opcao) {
         case 1:
