@@ -1,4 +1,6 @@
-# Projetos de Estudos [![Análise e Desenvolvimento de Sistemas][cult-img]][cult]
+# Projeto de Estudos [![Análise e Desenvolvimento de Sistemas][cult-img]][cult]
 
-# Size Limit [![Cult Of Martians][cult-img]][cult]
-Um projeto com objetivo de documentar todos os meus estudos da graduação
+<img src="https://www.svgrepo.com/show/89240/student.svg" align="right"
+     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+
+Um projeto com objetivo de documentar todos os meus estudos da graduação.
